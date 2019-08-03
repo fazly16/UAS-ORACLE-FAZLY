@@ -21,23 +21,23 @@ Aplikasi ini memiliki 5 table, yaitu :
 5. [Supplier](#table-supplier)
 
 ### Table Barang
-![Table Customer!](./BARANG/T_BARANG2.png "Table Customer")
+![Table Customer!](./BARANG/T_BARANG2.PNG "Table Customer")
 
 ### Table Customer
-![Table Customer!](./CUSTOMER/T_CUSTOMER2.png "Table Customer")
+![Table Customer!](./CUSTOMER/T_CUSTOMER2.PNG "Table Customer")
 
 ###  Table Penjualan
-![Table Customer!](./PENJUALAN/T_PENJUALAN2.png "Table Customer")
+![Table Customer!](./PENJUALAN/T_PENJUALAN2.PNG "Table Customer")
 
 ###  Table Pembelian
-![Table Customer!](./PEMBELIAN/T_PEMBELIAN2.png "Table Customer")
+![Table Customer!](./PEMBELIAN/T_PEMBELIAN2.PNG "Table Customer")
 
 ### Table Supplier
-![Table Customer!](./SUPPLIER/T_SUPPLIER2.png "Table Customer")
+![Table Customer!](./SUPPLIER/T_SUPPLIER2.PNG "Table Customer")
 
 
 ###  RESTful Service
-![Table Customer!](./T_PEMBELIAN2.png "Table Customer")
+![Table Customer!](./T_PEMBELIAN2.PNG "Table Customer")
 
 ###  
 PUT dan DELETE menggunakan {id} untuk mengidentifikasi data yang akan dieksekusi.  
@@ -53,60 +53,60 @@ Metode HTTP yang digunakan dalam aplikasi ini adalah:
 
 ###  *RESTful Service* pada Barang
 - **GET Barang**
-![Table Customer!](./BARANG/GET_BARANG.png "Table Customer")
+![Table Customer!](./BARANG/GET_BARANG.PNG "Table Customer")
 
 - **POST Barang**
-![Table Customer!](./BARANG/POST_BARANG.png "Table Customer")
+![Table Customer!](./BARANG/POST_BARANG.PNG "Table Customer")
 
 - **PUT Barang**
-![Table Customer!](./BARANG/PUT_BARANG.png "Table Customer")
+![Table Customer!](./BARANG/PUT_BARANG.PNG "Table Customer")
 
 - **DELETE Barang**
-![Table Customer!](./BARANG/DELETE_BARANG.png "Table Customer")
+![Table Customer!](./BARANG/DELETE_BARANG.PNG "Table Customer")
 
 ### *RESTful Service* pada Customer
 - **GET Customer**
-![Table Customer!](./CUSTOMER/GET_CUSTOMER.png "Table Customer")
+![Table Customer!](./CUSTOMER/GET_CUSTOMER.PNG "Table Customer")
 
 - **POST Customer**
-![Table Customer!](./CUSTOMER/POST_CUSTOMER.png "Table Customer")
+![Table Customer!](./CUSTOMER/POST_CUSTOMER.PNG "Table Customer")
 
 - **PUT Customer**
-![Table Customer!](./CUSTOMER/PUT_CUSTOMER.png "Table Customer")
+![Table Customer!](./CUSTOMER/PUT_CUSTOMER.PNG"Table Customer")
 
 - **DELETE Customer**
-![Table Customer!](./CUSTOMER/DELETE_CUSTOMER.png "Table Customer")
+![Table Customer!](./CUSTOMER/DELETE_CUSTOMER.PNG "Table Customer")
 
 ### *RESTful Service* pada Penjualan
 - **GET_Penjualan**
-![Table Customer!](./PENJUALAN/GET_PENJUALAN.png "Table Customer")
+![Table Customer!](./PENJUALAN/GET_PENJUALAN.PNG"Table Customer")
 
 - **POST_Penjualan**
-![Table Customer!](./PENJUALAN/POST_PENJUALAN.png "Table Customer")
+![Table Customer!](./PENJUALAN/POST_PENJUALAN.PNG "Table Customer")
 
 
 
 ### *RESTful Service* pada Pembelian
 - **GET_Pembelian**
-![Table Customer!](./PEMBELIAN/GET_PEMBELIAN.png "Table Customer")
+![Table Customer!](./PEMBELIAN/GET_PEMBELIAN.PNG "Table Customer")
 
 - **POST_Pembelian**
-![Table Customer!](./PEMBELIAN/POST_PEMBELIAN.png "Table Customer")
+![Table Customer!](./PEMBELIAN/POST_PEMBELIAN.PNG "Table Customer")
 
 
 
 ### *RESTful Service* pada Supplier
 - **GET Supplier**
-![Table Customer!](./SUPPLIER/GET_SUPPLIER.png "Table Customer")
+![Table Customer!](./SUPPLIER/GET_SUPPLIER.PNG "Table Customer")
 
 - **POST Supplier**
-![Table Customer!](./SUPPLIER/POST_SUPPLIER.png "Table Customer")
+![Table Customer!](./SUPPLIER/POST_SUPPLIER.PNG "Table Customer")
 
 - **PUT Supplier**
-![Table Customer!](./SUPPLIER/PUT_SUPPLIER.png "Table Customer")
+![Table Customer!](./SUPPLIER/PUT_SUPPLIER.PNG "Table Customer")
 
 - **DELETE Supplier**
-![Table Customer!](./SUPPLIER/DELETE_SUPPLIER.png "Table Customer")
+![Table Customer!](./SUPPLIER/DELETE_SUPPLIER.PNG "Table Customer")
 
 ### CodeIgniter
 
@@ -150,19 +150,19 @@ class Api
 #### Tampilan Web
 
 - Barang
-![List Barang](./BARANG/T_BARANG.png)
+![List Barang](./BARANG/T_BARANG.PNG)
 
 - Customer
-![List Customer](./CUSTOMER/T_CUSTOMER.png)
+![List Customer](./CUSTOMER/T_CUSTOMER.PNG)
 
 - Penjualan
-![List Penjualan](./PENJUALAN/T_PENJUALAN.png)
+![List Penjualan](./PENJUALAN/T_PENJUALAN.PNG)
 
 - Pembelian
-![List Pembelian](./PEMBELIAN/T_PEMBELIAN.png)
+![List Pembelian](./PEMBELIAN/T_PEMBELIAN.PNG)
 
 - Supplier
-![List Supplier](./SUPPLIER/T_SUPPLIER.png)
+![List Supplier](./SUPPLIER/T_SUPPLIER.PNG)
 
 ### License
 Copyright © 2019, [Muhammad Fazly Qusyairy](https://github.com/residwi).
